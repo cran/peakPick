@@ -1,0 +1,15 @@
+1d9976255b8cd4e179d7c9ab9d7d13ab *DESCRIPTION
+4ffa9439de1b3d0272d479391a41bdf0 *LICENSE
+927289faba8e8ccc00b27e356ed8844e *NAMESPACE
+75c122c4a4453494bd6231e927162cbe *R/peakpicking.R
+86cca7f637b199200e2ee1a735153417 *build/vignette.rds
+1ba14fed983a48134543c33415d06583 *inst/doc/peakPick-vignette.R
+bda8de631121e88606625ed4a61a3ea1 *inst/doc/peakPick-vignette.Rmd
+fc96efec564502d400aaa756e898b665 *inst/doc/peakPick-vignette.html
+528be4871ca1e337bc17de337ed31449 *man/detect.spikes.Rd
+e879ee3eed65e73b6569acd02e6d4bb9 *man/helperpeak.Rd
+ed911838a782420fd81b5201f4b1b8be *man/keepmax.Rd
+e20edbf2b17c723f6b5bc3dfc6896b2f *man/peakpick.Rd
+a5220808d31d882aad059a1749dad67e *man/scaledrow.Rd
+8d95e828205310d55e9d251f762140e3 *man/smallpeaks.Rd
+bda8de631121e88606625ed4a61a3ea1 *vignettes/peakPick-vignette.Rmd
